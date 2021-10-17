@@ -1,4 +1,4 @@
-# Enable call recording project
+# Enable call recording on OnePlus phones
 This tasker project enables call recording on OnePlus phones.
 
 To enable call recording follow these steps:
